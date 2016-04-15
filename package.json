@@ -1,0 +1,25 @@
+{
+  "name": "week22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insert-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Das/Week22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Das/Week22/issues"
+  },
+  "homepage": "https://github.com/C-Das/Week22#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.10.0",
+    "mongoose": "^4.4.12",
+    "request-promise": "^2.0.1"
+  }
+}
